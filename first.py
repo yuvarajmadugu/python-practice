@@ -1,5 +1,5 @@
-print("hello world")
-# import pyjokes
+#print("hello world")
+import pyjokes
 
-# joke=pyjokes.get_joke()
-# print(joke)
+joke=pyjokes.get_joke()
+print(joke)
